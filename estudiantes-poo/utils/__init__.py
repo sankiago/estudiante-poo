@@ -1,1 +1,0 @@
-from .db_operations import conexion_a_la_db, consultar_calificaciones
